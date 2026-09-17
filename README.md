@@ -9,6 +9,7 @@ I enjoy working on projects that combine **software, electronics, mechanical des
 ## 🧑‍💻 About Me
 
 * 🎓 **Mechatronics Engineering @ LAU**
+* 🌟 **Part of the Honors Program**
 * 📊 **4.0 / 4.0 Cumulative GPA**
 * 🤖 Interested in **Robotics, Automation & Control Systems**
 * 👁️ Exploring **Computer Vision & Machine Learning**
